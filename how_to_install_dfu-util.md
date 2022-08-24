@@ -1,4 +1,4 @@
-# How to install DFU-UTIL on a Windows PC
+# How to install dfu-util
 
 
 ### Windows:
