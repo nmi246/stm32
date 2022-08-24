@@ -11,18 +11,18 @@
 	- download it to a folder e.g.,: **C:\dfu-util\\**
 	- extract files
 	- the Windows binaries are located in the **win64** folder.
-3. Append the path of the **dfu-util.exe** to the system environment variable 'Path'.
+3. Append the path of the **dfu-util.exe** to the system environment variable **Path**.
 	- open environment variables
 	- click on Path, then click Edit...
 	- click 'New'
-	- add 'C:\dfu-util-0.11-binaries\win64'
+	- add 'C:\dfu-util\path\to\win64'
 	- Save and Exit
 4. Check that dfu-util is installed
 	- open CMD and type:
 	```
 	dfu-util --version
 	```
-  - if the terminal returns the version number dfu-util is successfully installed.  
+  	- if the terminal returns the version number dfu-util is successfully installed.  
 
 ### Linux:
 ```
