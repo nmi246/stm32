@@ -29,5 +29,10 @@
  $ sudo apt-get install dfu-util
  ```
  
+ -------------------------------------------------------------------------------------------
+ 
+### NOTE: 
+The version 0.11 of dfu-util (latest version as of 24/08/2022) is also available for download in this repository. See **dfu-util-0.11-binaries**
+
  
 
